@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E77538D5-51F2-4F40-9760-4F8CB2C9BACA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BF73DC8-0A03-4804-AAC0-6A490309EE1D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Inspections/Cells/IconCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0BF73DC8-0A03-4804-AAC0-6A490309EE1D - 2594ab54c1a314a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inspections.IconCollectionViewCell.init(frame: __C.CGRect) -&gt; Inspections.IconCollectionViewCell"
+                  moduleName = "Inspections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/appnapmahfuj/Desktop/Practices/Xcodes/Inspections/Inspections/Cells/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "936">
+               </Location>
+               <Location
+                  uuid = "0BF73DC8-0A03-4804-AAC0-6A490309EE1D - 2594ab54c1a314a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inspections.IconCollectionViewCell.init(frame: __C.CGRect) -&gt; Inspections.IconCollectionViewCell"
+                  moduleName = "Inspections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/appnapmahfuj/Desktop/Practices/Xcodes/Inspections/Inspections/Cells/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "0BF73DC8-0A03-4804-AAC0-6A490309EE1D - 2594ab54c1a314a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inspections.IconCollectionViewCell.init(frame: __C.CGRect) -&gt; Inspections.IconCollectionViewCell"
+                  moduleName = "Inspections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/appnapmahfuj/Desktop/Practices/Xcodes/Inspections/Inspections/Cells/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60227043-D106-4046-BB40-3FA823B98CBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Inspections/Cells/IconCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "update()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60227043-D106-4046-BB40-3FA823B98CBE - 46d8133339c3aa03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inspections.IconCollectionViewCell.update() -&gt; ()"
+                  moduleName = "Inspections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/appnapmahfuj/Desktop/Practices/Xcodes/Inspections/Inspections/Cells/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "60227043-D106-4046-BB40-3FA823B98CBE - 46d8133339c3aa41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inspections.IconCollectionViewCell.update() -&gt; ()"
+                  moduleName = "Inspections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/appnapmahfuj/Desktop/Practices/Xcodes/Inspections/Inspections/Cells/IconCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B6A7636-EF59-49DD-B228-2F89DC40D61B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Inspections/Controllers/ImageSliderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "collectionView(_:layout:sizeForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
