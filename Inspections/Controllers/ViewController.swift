@@ -50,7 +50,7 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource{
         vc.header.text = inspectionsData[indexPath.row].title
         vc.subHeader.text = inspectionsData[indexPath.row].subTitle
         let nav = UINavigationController(rootViewController: vc)
-        nav.modalPresentationStyle = .automatic
+        nav.modalPresentationStyle = .fullScreen
         nav.navigationBar.isHidden = true
         self.present(nav, animated: true)
     }
